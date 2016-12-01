@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:LENDSTAR.xcodeproj">
+      location = "self:/Users/alinah/Documents/LENDSTAR/STAR.xcodeproj">
    </FileRef>
 </Workspace>
